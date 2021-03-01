@@ -1,14 +1,3 @@
-var config = {
-    startOnLoad:true,
-    theme: 'forest',
-    flowchart:{
-            useMaxWidth:false,
-            htmlLabels:true
-        }
-};
-mermaid.initialize(config);
-window.mermaid.init(undefined, document.querySelectorAll('pre[lang=mermaid] > code'));
-
 # parent-control
 
 The internet is a wonderful source of great content, however it also comes with some risks. My kids are exposed to the web and I would like to get some control and minimize the risk of my kids exposed to porn, violence, bullying, hacking etc.
@@ -16,11 +5,6 @@ The internet is a wonderful source of great content, however it also comes with 
 ## Goal
 
 Set up a raspberry pi to filter content, write reviews here.
-
-```mermaid
-graph TD;
-    A-->B;
-```
 
 ## What is out there
 
