@@ -6,6 +6,8 @@ The internet is a wonderful source of great content, however it also comes with 
 
 Set up a raspberry pi to filter content, write reviews here.
 
+to load the diagrams, copy [this snippet](mermaid.txt?raw=true) and paste/run in your browser console
+
 ## What is out there
 
 ### Pi-hole
