@@ -26,6 +26,12 @@ https://keexybox.org/install/
 
 This seems like just what I need.
 
+### Others
+
+- https://github.com/onnozweers/raspberry-pi-parental-filter
+- Squid: https://wiki.squid-cache.org/SquidFaq/SquidAcl#Access_Controls_in_Squid
+- nxfilter https://sidelink.co.za/install-nxfilter-on-raspberry-pi/
+
 ## Sources
 
 https://www.vpngids.nl/veilig-internet/kind-en-jeugd/digitaal-ouderlijk-toezicht/
