@@ -1,2 +1,32 @@
 # parent-control
-Filter the internet for my kids and myself
+
+The internet is a wonderful source of great content, however it also comes with some risks. My kids are exposed to the web and I would like to get some control and minimize the risk of my kids exposed to porn, violence, bullying, hacking etc.
+
+## Goal
+
+Set up a raspberry pi to filter content, write reviews here.
+
+## What is out there
+
+### Pi-hole
+
+https://pi-hole.net/
+
+I tried this, looks nice, however it is tedious slow with https calls, and the pi needs to be restarted many times.
+
+### PfBlocker-NG
+
+I understood that this is more lightweight than pi-hole
+
+https://docs.netgate.com/pfsense/en/latest/packages/pfblocker.html
+
+### KeexyBox
+
+https://keexybox.org/install/
+
+This seems like just what I need.
+
+## Sources
+
+https://www.vpngids.nl/veilig-internet/kind-en-jeugd/digitaal-ouderlijk-toezicht/
+
